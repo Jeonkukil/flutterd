@@ -14,3 +14,11 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+modle - auth : 인증관련
+
+provider - 창고 
+
+1) view만 관리하는 창고관리자
+2) 하나의 view만 관리하는 창고 관리자  <- view에 둔다
+3) 전체 데이터를 관리하는 창고 관리자 <- provider에 둔다
